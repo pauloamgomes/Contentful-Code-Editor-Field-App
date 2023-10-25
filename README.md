@@ -4,8 +4,7 @@ A small Contentful App that utilizes the [React Textarea Code Editor](https://gi
 
 ## ▶️ Demo
 
-
-
+https://github.com/pauloamgomes/Contentful-Code-Editor-Field-App/assets/102261/f4cc1800-2b90-4e67-9382-60313bf3f401
 
 ## 🛠 Setup
 
