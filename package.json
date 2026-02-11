@@ -9,7 +9,7 @@
     "@contentful/f36-tokens": "4.0.2",
     "@contentful/react-apps-toolkit": "1.2.16",
     "@uiw/react-textarea-code-editor": "^2.1.9",
-    "contentful-management": "10.38.3",
+    "contentful-management": "10.40.0",
     "emotion": "10.0.27",
     "react": "18.2.0",
     "react-dom": "18.2.0"
